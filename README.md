@@ -1,4 +1,4 @@
-![zahriaan](img/github-header-banner.png)
+![zahriaan](img/github-header-banner%20(1).png)
 
 ## Hi, I'm Abel Muhammad Zahrian!
 
