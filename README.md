@@ -12,6 +12,17 @@
 #### 🌐Social
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/zahriaan) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/zahr.iaan?igsh=MXhlcms3MDByZjk5cQ==)
 
+###
+
+***
+
+#### 🎮 Let's play games with me!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahriaan/zahriaan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkayFive/SkayFive/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zahriaan/zahriaan/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <!-- #### 🎮 Let's play games with me!
 <img src="https://raw.githubusercontent.com/zahrian/zahrian/output/snake.svg" alt="Snake animation" />
