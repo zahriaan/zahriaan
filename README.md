@@ -8,12 +8,11 @@
 ***
 
 #### 🌐Social
-![https://instagram.com/zahr.iaan](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://github.com/zahriaan](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![https://www.instagram.com/zahr.iaan?igsh=MXhlcms3MDByZjk5cQ==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/zahriaan](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ***
 
-#### 🎮 Let's play games with me!
+<!-- #### 🎮 Let's play games with me!
 <img src="https://raw.githubusercontent.com/zahrian/zahrian/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -24,4 +23,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zahrian/zahrian/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
