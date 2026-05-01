@@ -8,9 +8,8 @@
 ***
 
 #### 🌐Social
-![https://www.instagram.com/zahr.iaan?igsh=MXhlcms3MDByZjk5cQ==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/zahriaan](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/zahriaan) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/zahr.iaan?igsh=MXhlcms3MDByZjk5cQ==)
 
-***
 
 <!-- #### 🎮 Let's play games with me!
 <img src="https://raw.githubusercontent.com/zahrian/zahrian/output/snake.svg" alt="Snake animation" />
